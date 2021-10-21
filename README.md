@@ -1,6 +1,8 @@
 # iso-profile
 
-# ISO profile for Woof OS
+# ISO profile for Woof OS Sway Edition
+
+**Not started working on yet.**
 
 ISO profile for building Woof OS using [`archiso`](https://wiki.archlinux.org/title/Archiso)
 
