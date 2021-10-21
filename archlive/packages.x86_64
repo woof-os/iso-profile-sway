@@ -118,7 +118,7 @@ calamares
 zsh
 kitty
 woof-change-wall
-woof-qtile-config
+woof-sway-config
 woof-conky-config
 woof-gtk-config
 gtk3
@@ -133,7 +133,6 @@ woof-fetch-walls
 woof-plank-themes
 woof-qt5-config
 woof-wallpapers
-woof-picom-config
 woofetch
 lightdm
 lightdm-gtk-greeter
