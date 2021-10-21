@@ -119,6 +119,9 @@ zsh
 kitty
 woof-change-wall
 woof-sway-config
+sway
+waybar
+wayland
 woof-conky-config
 woof-gtk-config
 gtk3
@@ -134,7 +137,7 @@ woof-plank-themes
 woof-qt5-config
 woof-wallpapers
 woofetch
-lightdm
+sddm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 binutils
