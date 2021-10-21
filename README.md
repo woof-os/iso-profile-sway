@@ -1,4 +1,4 @@
-# iso-profile
+# iso-profile-sway
 
 # ISO profile for Woof OS Sway Edition
 
