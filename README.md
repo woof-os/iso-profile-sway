@@ -14,7 +14,7 @@ I'm not sure if you can build this profile on other distributions. Usually impos
 After installing `archiso`,
 
 - Clone this repository
-  `git clone https://github.com/woof-os/iso-profile`
+  `git clone https://github.com/woof-os/iso-profile-sway`
 
 - CD into the directory
   `cd iso-profile`
