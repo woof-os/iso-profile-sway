@@ -54,7 +54,6 @@ linux-firmware
 livecd-sounds
 lsscsi
 lvm2
-ly
 lynx
 man-db
 man-pages
@@ -91,7 +90,6 @@ rp-pppoe
 rsync
 rxvt-unicode-terminfo
 screen
-sddm
 sdparm
 sg3_utils
 smartmontools
