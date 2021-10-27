@@ -125,7 +125,6 @@ woof-sway-config
 sway
 waybar
 wayland
-woof-conky-config
 woof-gtk-config
 gtk3
 gtk2
