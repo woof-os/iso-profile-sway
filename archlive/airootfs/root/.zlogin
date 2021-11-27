@@ -1,11 +1,13 @@
-# # fix for screen readers
-# if grep -Fq 'accessibility=' /proc/cmdline &> /dev/null; then
-#     setopt SINGLE_LINE_ZLE
-# fi
+#!/bin/sh
+if test -z "${XDG_RUNTIME_DIR}"; then
+    export XDG_RUNTIME_DIR=/tmp/${UID}-runtime-dir
+    if ! test -d "${XDG_RUNTIME_DIR}"; then
+        mkdir "${XDG_RUNTIME_DIR}"
+        chmod 0700 "${XDG_RUNTIME_DIR}"
+    fi
+fi
 
 # If running from tty1 start sway
-if [ "$(tty)" = "/dev/tty1" ]; then
-    exec sway
-fi
+[ "$(tty)" = "/dev/tty1" ] && dbus-run-session sway
 
 # ~/.automated_script.sh
