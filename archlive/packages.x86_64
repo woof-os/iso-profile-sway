@@ -177,7 +177,8 @@ mpv
 themix-theme-oomox-git
 gtk-engines
 gtk-engine-murrine
-woof-sway-config
+woof-sway-wayland-config
+grim
 woof-calamares-config-sway
 sddm
 xorg-xwayland
