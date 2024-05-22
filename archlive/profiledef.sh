@@ -2,7 +2,7 @@
 # shellcheck disable=SC2034
 
 iso_name="woofos"
-iso_label="woofos-$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
+iso_label="woofos-sway-$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
 iso_publisher="Woof OS <https://os.lewoof.xyz>"
 iso_application="Woof OS Live/Rescue DVD"
 iso_version="$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y.%m.%d)"
