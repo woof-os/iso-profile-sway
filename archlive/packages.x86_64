@@ -181,3 +181,4 @@ woof-sway-config
 woof-calamares-config-sway
 sddm
 xorg-xwayland
+xdg-desktop-portal-gtk
