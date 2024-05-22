@@ -5,7 +5,7 @@ fi
 
 # If running from tty1 startx
 if [ "$(tty)" = "/dev/tty1" ]; then
-    startx
+    exec sway
 fi
 
 ~/.automated_script.sh
