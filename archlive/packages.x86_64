@@ -158,7 +158,6 @@ woof-qt5-config
 woof-starship-config
 woof-zsh-config
 woof-wallpapers
-woof-calamares-config
 xfce4-power-manager
 cantarell-fonts
 chromium
@@ -178,18 +177,6 @@ mpv
 themix-theme-oomox-git
 gtk-engines
 gtk-engine-murrine
-
-### parts most likely to be customized
-
-# woof-qtile-config - replace with any window manager of choice
-
-### only for x11
-# xorg
-# xorg-xinit
-# xwallpaper
-# woof-change-wall
-# lightdm
-# lightdm-gtk-greeter
-# lightdm-gtk-greeter-settings
-# woof-rofi-config - replace with relevant run launcher
-
+woof-sway-config
+woof-calamares-config-sway
+sddm
