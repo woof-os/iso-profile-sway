@@ -43,7 +43,6 @@ irssi
 iw
 iwd
 jfsutils
-kitty-terminfo
 ldns
 less
 lftp
@@ -88,7 +87,6 @@ pcsclite
 ppp
 pptpclient
 pv
-qemu-guest-agent
 refind
 reflector
 rp-pppoe
