@@ -10,7 +10,6 @@ bolt
 brltty
 broadcom-wl
 btrfs-progs
-clonezilla
 cloud-init
 cryptsetup
 darkhttpd
@@ -140,7 +139,6 @@ os-prober
 picom
 qt5ct
 starship
-ttf-fira-code
 vim
 woof-dunst-config
 woof-gtk-config
@@ -150,7 +148,6 @@ woof-qt5-config
 woof-starship-config
 woof-zsh-config
 woof-wallpapers
-woof-nvim-config
 woof-zathura-config
 xfce4-power-manager
 pipewire
