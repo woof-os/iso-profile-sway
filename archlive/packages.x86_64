@@ -1,7 +1,6 @@
 alsa-utils
 amd-ucode
 arch-install-scripts
-archinstall
 b43-fwcutter
 base
 bcachefs-tools
@@ -37,7 +36,6 @@ gptfdisk
 grub
 hdparm
 hyperv
-intel-ucode
 irssi
 iw
 iwd
@@ -75,7 +73,6 @@ nmap
 ntfs-3g
 nvme-cli
 open-iscsi
-openconnect
 openpgp-card-tools
 openssh
 openvpn
@@ -122,7 +119,6 @@ xl2tpd
 zsh
 base-devel
 fakeroot
-flameshot
 git
 gtk2
 gtk3
@@ -137,7 +133,6 @@ network-manager-applet
 networkmanager
 os-prober
 picom
-qt5ct
 starship
 vim
 woof-dunst-config
