@@ -120,7 +120,6 @@ zsh
 base-devel
 fakeroot
 git
-gtk2
 gtk3
 grub-btrfs
 htop
@@ -158,8 +157,6 @@ vifm
 zathura
 mpv
 themix-theme-oomox-git
-gtk-engines
-gtk-engine-murrine
 woof-sway-waybar-config
 grim
 woof-calamares-config-sway
